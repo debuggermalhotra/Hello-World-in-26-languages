@@ -2,12 +2,12 @@
 
 <h2>C<h2>
 
-<h3>#include<stdio.h>
+<h3><xmp>#include<stdio.h>
 int main()
 {
   printf("Hello world!");
   return (0);
-}<h3>
+}<xmp><h3>
 
 <h2>C++<h2>
 
